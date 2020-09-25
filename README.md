@@ -1,2 +1,2 @@
 # Hello_Word
-Este Repositorio es de pruena
+Este Repositorio es de prueba.
